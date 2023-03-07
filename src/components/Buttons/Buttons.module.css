@@ -1,0 +1,57 @@
+.btn {
+    width: 385px;
+    height: 81px;
+    border-radius: 6px;
+    font-size: var(--font-large);
+    border: 2px solid;
+    cursor: pointer;
+}
+
+.btn-fill {
+    background-color: var(--base-green);
+    color: var(--dark-blue);
+    border-color: var(--base-green);
+}
+
+.btn-fill:hover {
+    background-color: var(--light-green);
+    border-color: var(--light-green);
+    transform: scale(1.02);
+    box-shadow: 0 0 7px #737373;
+}
+
+.btn-outline {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+}
+.btn-outline:hover {
+    background-color: white;
+    color: var(--dark-blue);
+}
+
+.btn-outline-danger {
+    color: white;
+    border-color: white;
+    background-color: var(--danger);
+}
+.btn-outline-danger:hover {
+    background-color: var(--light-danger);
+}
+
+.btn-outline-success {
+    color: white;
+    border-color: white;
+    background-color: var(--base-green);
+}
+.btn-outline-success:hover {
+    background-color: var(--light-green);
+}
+
+@media only screen and (max-width: 768px) {
+    .btn {
+        width: 265px;
+        height: 65px;
+        font-size: var(--font-small);
+    }
+}

@@ -1,0 +1,440 @@
+{
+    "sports": [
+        {
+            "question": "Which country won the 2018 FIFA World Cup?",
+            "options": ["Brazil", "Germany", "France", "Spain"],
+            "answer": "France"
+        },
+        {
+            "question": "Which team has won the most NBA championships?",
+            "options": [
+                "Chicago Bulls",
+                "Los Angeles Lakers",
+                "Boston Celtics",
+                "Golden State Warriors"
+            ],
+            "answer": "Boston Celtics"
+        },
+        {
+            "question": "In which sport is the term 'birdie' used?",
+            "options": ["Golf", "Tennis", "Table Tennis", "Badminton"],
+            "answer": "Golf"
+        },
+        {
+            "question": "Which country won the 2019 Cricket World Cup?",
+            "options": ["India", "Australia", "England", "South Africa"],
+            "answer": "England"
+        },
+        {
+            "question": "What is the distance of a marathon race?",
+            "options": [
+                "10 kilometers",
+                "21 kilometers",
+                "42 kilometers",
+                "100 kilometers"
+            ],
+            "answer": "42 kilometers"
+        },
+        {
+            "question": "Which player has won the most Grand Slam singles titles in tennis?",
+            "options": [
+                "Roger Federer",
+                "Rafael Nadal",
+                "Novak Djokovic",
+                "Pete Sampras"
+            ],
+            "answer": "Roger Federer"
+        },
+        {
+            "question": "Which team won the 2021 UEFA Champions League?",
+            "options": [
+                "Manchester City",
+                "Chelsea",
+                "Real Madrid",
+                "Bayern Munich"
+            ],
+            "answer": "Chelsea"
+        },
+        {
+            "question": "Which country has won the most gold medals in the Winter Olympics?",
+            "options": ["Norway", "United States", "Russia", "Germany"],
+            "answer": "Norway"
+        },
+        {
+            "question": "In which sport is the term 'smash' used?",
+            "options": ["Volleyball", "Tennis", "Badminton", "Basketball"],
+            "answer": "Badminton"
+        },
+        {
+            "question": "Which team won the 2019 FIFA Women's World Cup?",
+            "options": ["Germany", "Brazil", "United States", "England"],
+            "answer": "United States"
+        },
+        {
+            "question": "Which player has won the most PGA Tour events in golf?",
+            "options": [
+                "Jack Nicklaus",
+                "Tiger Woods",
+                "Arnold Palmer",
+                "Phil Mickelson"
+            ],
+            "answer": "Tiger Woods"
+        },
+        {
+            "question": "Which team has won the most Stanley Cup championships in ice hockey?",
+            "options": [
+                "Montreal Canadiens",
+                "Toronto Maple Leafs",
+                "Detroit Red Wings",
+                "Boston Bruins"
+            ],
+            "answer": "Montreal Canadiens"
+        },
+        {
+            "question": "Which athlete holds the world record for the men's 100-meter sprint?",
+            "options": [
+                "Usain Bolt",
+                "Carl Lewis",
+                "Asafa Powell",
+                "Tyson Gay"
+            ],
+            "answer": "Usain Bolt"
+        },
+        {
+            "question": "Which team won the 2021 NBA Finals?",
+            "options": [
+                "Milwaukee Bucks",
+                "Phoenix Suns",
+                "Brooklyn Nets",
+                "Los Angeles Lakers"
+            ],
+            "answer": "Milwaukee Bucks"
+        },
+        {
+            "question": "In which city was the 2016 Summer Olympics held?",
+            "options": ["Sydney", "Beijing", "Rio de Janeiro", "Tokyo"],
+            "answer": "Rio de Janeiro"
+        }
+    ],
+    "science": [
+        {
+            "question": "Which of the following is NOT a state of matter?",
+            "options": ["Solid", "Liquid", "Gas", "Plasma"],
+            "answer": "Fire"
+        },
+        {
+            "question": "What is the smallest unit of matter?",
+            "options": ["Atom", "Molecule", "Cell", "Organism"],
+            "answer": "Atom"
+        },
+        {
+            "question": "What is the chemical symbol for gold?",
+            "options": ["Ag", "Au", "Cu", "Fe"],
+            "answer": "Au"
+        },
+        {
+            "question": "What is the process by which plants convert sunlight into energy?",
+            "options": [
+                "Respiration",
+                "Photosynthesis",
+                "Fermentation",
+                "Combustion"
+            ],
+            "answer": "Photosynthesis"
+        },
+        {
+            "question": "What is the force that holds atoms together in a molecule?",
+            "options": [
+                "Gravity",
+                "Electromagnetism",
+                "Strong Nuclear Force",
+                "Weak Nuclear Force"
+            ],
+            "answer": "Electromagnetism"
+        },
+        {
+            "question": "What is the process by which a solid turns into a gas?",
+            "options": ["Melting", "Freezing", "Evaporation", "Condensation"],
+            "answer": "Sublimation"
+        },
+        {
+            "question": "Which of the following is NOT a type of energy?",
+            "options": ["Thermal", "Nuclear", "Magnetic", "Atmospheric"],
+            "answer": "Atmospheric"
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": ["Earth", "Venus", "Jupiter", "Mars"],
+            "answer": "Jupiter"
+        },
+        {
+            "question": "What is the study of the relationship between living things and their environment called?",
+            "options": ["Biology", "Ecology", "Chemistry", "Geology"],
+            "answer": "Ecology"
+        },
+        {
+            "question": "What is the process by which a gas turns into a liquid?",
+            "options": ["Melting", "Freezing", "Evaporation", "Condensation"],
+            "answer": "Condensation"
+        },
+        {
+            "question": "What is the smallest particle in an element that retains the properties of that element?",
+            "options": ["Molecule", "Ion", "Neutron", "Atom"],
+            "answer": "Atom"
+        },
+        {
+            "question": "What is the force that keeps objects in orbit around the sun?",
+            "options": [
+                "Gravity",
+                "Electromagnetism",
+                "Strong Nuclear Force",
+                "Weak Nuclear Force"
+            ],
+            "answer": "Gravity"
+        },
+        {
+            "question": "What is the process by which an organism produces offspring?",
+            "options": [
+                "Fertilization",
+                "Photosynthesis",
+                "Respiration",
+                "Digestion"
+            ],
+            "answer": "Reproduction"
+        },
+        {
+            "question": "What is the process by which a liquid turns into a gas?",
+            "options": ["Melting", "Freezing", "Evaporation", "Condensation"],
+            "answer": "Evaporation"
+        },
+        {
+            "question": "What is the study of the origin and history of the universe called?",
+            "options": ["Geology", "Biology", "Astronomy", "Chemistry"],
+            "answer": "Astronomy"
+        }
+    ],
+    "technology": [
+        {
+            "question": "What does CPU stand for?",
+            "options": [
+                "Central Processing Unit",
+                "Computer Processing Unit",
+                "Control Processing Unit",
+                "Central Power Unit"
+            ],
+            "answer": "Central Processing Unit"
+        },
+        {
+            "question": "What does HTML stand for?",
+            "options": [
+                "Hypertext Markup Language",
+                "Hyper Technology Markup Language",
+                "Hyper Text Markup Linguistics",
+                "High Text Markup Language"
+            ],
+            "answer": "Hypertext Markup Language"
+        },
+        {
+            "question": "What is the purpose of a firewall?",
+            "options": [
+                "To prevent unauthorized access to a network",
+                "To speed up a computer's processing speed",
+                "To create backups of files",
+                "To scan for viruses"
+            ],
+            "answer": "To prevent unauthorized access to a network"
+        },
+        {
+            "question": "What is the name of the world's largest social media platform?",
+            "options": ["Facebook", "Twitter", "Instagram", "LinkedIn"],
+            "answer": "Facebook"
+        },
+        {
+            "question": "What is the name of the largest online retailer in the world?",
+            "options": ["Amazon", "eBay", "Alibaba", "Walmart"],
+            "answer": "Amazon"
+        },
+        {
+            "question": "What is the name of the search engine owned by Google?",
+            "options": [
+                "Gmail",
+                "Google Search",
+                "Google Drive",
+                "Google Maps"
+            ],
+            "answer": "Google Search"
+        },
+        {
+            "question": "What is the name of the virtual assistant developed by Amazon?",
+            "options": ["Alexa", "Siri", "Cortana", "Google Assistant"],
+            "answer": "Alexa"
+        },
+        {
+            "question": "What is the name of the programming language used to create Android apps?",
+            "options": ["Java", "Python", "C++", "Ruby"],
+            "answer": "Java"
+        },
+        {
+            "question": "What is the name of the virtual reality headset developed by Oculus?",
+            "options": ["Rift", "Vive", "Quest", "Go"],
+            "answer": "Rift"
+        },
+        {
+            "question": "What is the name of the streaming platform owned by Disney?",
+            "options": ["Netflix", "Amazon Prime Video", "Hulu", "Disney+"],
+            "answer": "Disney+"
+        },
+        {
+            "question": "What is the name of the cloud storage service developed by Google?",
+            "options": ["OneDrive", "Dropbox", "iCloud", "Google Drive"],
+            "answer": "Google Drive"
+        },
+        {
+            "question": "What is the name of the video conferencing platform owned by Zoom?",
+            "options": ["Skype", "FaceTime", "Google Meet", "Zoom"],
+            "answer": "Zoom"
+        },
+        {
+            "question": "What is the name of the game development engine developed by Unity Technologies?",
+            "options": ["Unreal Engine", "CryEngine", "Frostbite", "Unity"],
+            "answer": "Unity"
+        },
+        {
+            "question": "What is the name of the operating system developed by Apple?",
+            "options": ["Windows", "Linux", "Android", "macOS"],
+            "answer": "macOS"
+        },
+        {
+            "question": "What is the name of the messaging app owned by Facebook?",
+            "options": ["WhatsApp", "Telegram", "Signal", "Messenger"],
+            "answer": "Messenger"
+        }
+    ],
+    "history": [
+        {
+            "question": "Who was the first President of the United States?",
+            "options": [
+                "Thomas Jefferson",
+                "George Washington",
+                "John Adams",
+                "Abraham Lincoln"
+            ],
+            "answer": "George Washington"
+        },
+        {
+            "question": "Who was the leader of Nazi Germany during World War II?",
+            "options": [
+                "Adolf Hitler",
+                "Joseph Stalin",
+                "Benito Mussolini",
+                "Hirohito"
+            ],
+            "answer": "Adolf Hitler"
+        },
+        {
+            "question": "In what year did World War I begin?",
+            "options": ["1914", "1915", "1916", "1917"],
+            "answer": "1914"
+        },
+        {
+            "question": "What was the name of the first permanent English settlement in North America?",
+            "options": ["Jamestown", "Plymouth", "Roanoke", "Boston"],
+            "answer": "Jamestown"
+        },
+        {
+            "question": "Who was the first African American to serve as President of the United States?",
+            "options": [
+                "Barack Obama",
+                "George W. Bush",
+                "Bill Clinton",
+                "George H.W. Bush"
+            ],
+            "answer": "Barack Obama"
+        },
+        {
+            "question": "What was the name of the British Prime Minister during World War II?",
+            "options": [
+                "Winston Churchill",
+                "Margaret Thatcher",
+                "Tony Blair",
+                "David Cameron"
+            ],
+            "answer": "Winston Churchill"
+        },
+        {
+            "question": "What was the name of the ancient civilization that developed in the Indus Valley?",
+            "options": ["Mesopotamia", "Egypt", "China", "Harappa"],
+            "answer": "Harappa"
+        },
+        {
+            "question": "What was the name of the Russian mystic who gained a significant influence over the Russian imperial family?",
+            "options": [
+                "Grigori Rasputin",
+                "Vladimir Lenin",
+                "Joseph Stalin",
+                "Leon Trotsky"
+            ],
+            "answer": "Grigori Rasputin"
+        },
+        {
+            "question": "What was the name of the ship that Charles Darwin sailed on during his voyage to the Galapagos Islands?",
+            "options": ["Endeavour", "Beagle", "Discovery", "Titanic"],
+            "answer": "Beagle"
+        },
+        {
+            "question": "In what year did the American Civil War end?",
+            "options": ["1863", "1864", "1865", "1866"],
+            "answer": "1865"
+        },
+        {
+            "question": "What was the name of the first man to walk on the moon?",
+            "options": [
+                "Neil Armstrong",
+                "Buzz Aldrin",
+                "Michael Collins",
+                "Alan Shepard"
+            ],
+            "answer": "Neil Armstrong"
+        },
+        {
+            "question": "What was the name of the last queen of France before the French Revolution?",
+            "options": [
+                "Marie Antoinette",
+                "Catherine the Great",
+                "Queen Victoria",
+                "Elizabeth I"
+            ],
+            "answer": "Marie Antoinette"
+        },
+        {
+            "question": "In what year did the Berlin Wall fall?",
+            "options": ["1987", "1988", "1989", "1990"],
+            "answer": "1989"
+        },
+        {
+            "question": "What was the name of the Greek philosopher who was the student of Socrates and the teacher of Aristotle?",
+            "options": ["Plato", "Pythagoras", "Aristophanes", "Euripides"],
+            "answer": "Plato"
+        },
+        {
+            "question": "Who was the first woman to be elected as Prime Minister of a country?",
+            "options": [
+                "Angela Merkel",
+                "Margaret Thatcher",
+                "Indira Gandhi",
+                "Golda Meir"
+            ],
+            "answer": "Sirimavo Bandaranaike"
+        },
+        {
+            "question": "Who was the first emperor of China?",
+            "options": [
+                "Mao Zedong",
+                "Qin Shi Huang",
+                "Sun Yat-sen",
+                "Chiang Kai-shek"
+            ],
+            "answer": "Qin Shi Huang"
+        }
+    ]
+}

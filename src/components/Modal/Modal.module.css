@@ -1,0 +1,33 @@
+.overlay {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    z-index: 10;
+    background: #00000073;
+    display: grid;
+    place-items: center;
+}
+
+.modal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid var(--base-green);
+    border-radius: 16px;
+    padding: 1rem;
+    background: var(--dark-blue);
+}
+
+.select {
+    width: 385px;
+    margin-bottom: 16px;
+    font-size: calc(var(--font-large) - 5px);
+}
+
+@media only screen and (max-width: 768px) {
+    .select {
+        width: 265px;
+        font-size: calc(var(--font-small) - 5px);
+    }
+}

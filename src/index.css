@@ -1,13 +1,23 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+:root {
+    --dark-blue: #050019;
+    --base-green: #03c988;
+    --light-green: #01f3a2;
+    --danger: #c90303;
+    --light-danger: #f30101;
+    --font-large: 28px;
+    --font-small: 18px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+    font-family: Gloria;
+    src: url("./fonts/Gloria/GloriaHallelujah-Regular.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Gloria, Arial, Helvetica, sans-serif;
+    transition: all 0.3s;
+    box-sizing: border-box;
+    /* user-select: none; */
 }
