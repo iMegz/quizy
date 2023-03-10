@@ -19,5 +19,5 @@
     font-family: Gloria, Arial, Helvetica, sans-serif;
     transition: all 0.3s;
     box-sizing: border-box;
-    /* user-select: none; */
+    user-select: none;
 }

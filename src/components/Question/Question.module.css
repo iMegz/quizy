@@ -12,6 +12,11 @@
     display: flex;
     width: 100%;
     justify-content: space-between;
+    animation: enterance 0.5s ease-in-out forwards;
+}
+
+.exit {
+    animation: exit 0.5s ease-in-out forwards;
 }
 
 .btn-container div {
@@ -37,5 +42,29 @@
     .btn-container {
         flex-direction: column;
         width: 265px;
+    }
+}
+
+@keyframes enterance {
+    from {
+        transform: translateY(12px);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes exit {
+    from {
+        transform: translateY(0);
+        opacity: 1;
+    }
+
+    to {
+        transform: translateY(12px);
+        opacity: 0;
     }
 }

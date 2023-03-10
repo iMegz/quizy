@@ -5,3 +5,16 @@
     align-items: center;
     min-height: 100vh;
 }
+
+.result {
+    color: white;
+}
+.result h2 {
+    font-size: var(--font-large);
+    text-align: center;
+}
+.result h3 {
+    font-size: calc(var(--font-large) - 3px);
+    text-align: center;
+    margin-bottom: 7px;
+}
