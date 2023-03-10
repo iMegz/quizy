@@ -1,70 +1,66 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Quizy | Quiz App using ReactJS
 
-## Available Scripts
+This is Quiz App using ReactJS in the App you can choose to test  your Knowledge based on different Categories  (Science-Technology-History-Sprots) in form of MCQs
 
-In the project directory, you can run:
+## Table of contents
 
-### `npm start`
+-   [Overview](#overview)
+    -   [The challenge](#the-challenge)
+    -   [Screenshots](#screenshots)
+    -   [Links](#links)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+    -   [Useful resources](#useful-resources)
+-   [Author](#author)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Overview
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### The challenge
 
-### `npm test`
+-   The user can choose from 4 Categories
+    - Science
+    - History
+    - Technology
+    - Sprots
+-   It should include 2 main pages :
+    -   Home page - User chooses category through modal
+    -   Quiz page - Display questions
+-   Site should be responsive
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Screenshots
 
-### `npm run build`
+Home Page in mobile version : <br>
+<img alt="Home Page in Mobile Version" src="https://github.com/iMegz/quizy/blob/master/Screenshots/HomePage_Mobile.jpeg?raw=true" height="400" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Choosing question category page in mobile version : <br>
+<img alt="Choosing question category page :" src="https://github.com/iMegz/quizy/blob/master/Screenshots/Modal_mobile.jpeg?raw=true" height="400" />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Question page in mobile version : <br>
+<img alt="Question page in mobile version" src="https://github.com/iMegz/quizy/blob/master/Screenshots/QuestionPage_Mobile.jpeg?raw=true" height="400" />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Question page in mobile desktop version : <br>
+<img alt="Question page in mobile desktop version" src="https://github.com/iMegz/quizy/blob/master/Screenshots/QuestionPage_desktop.jpeg?raw=true" height="400" />
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Links
+-   [Figma design](https://www.figma.com/file/i1L7uDpZSee5V4PnH0OE2e/QuizApp?node-id=0%3A1)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## My process
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Built with
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+-   ReactJs
+-   React Router Dom
 
-## Learn More
+### Useful resources
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+-   [React Js](https://reactjs.org/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+-   [React Router v6.9](https://reactrouter.com/en/6.9.0)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Author
+- [@Ahmed Magdy ](https://github.com/AMF777)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [@Ahmed Magdi ](https://github.com/iMegz)
